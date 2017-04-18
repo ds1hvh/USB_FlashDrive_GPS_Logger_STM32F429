@@ -1,0 +1,11 @@
+
+1ST REMARK
+----------
+
+	Text written to a file has to be ***CORRECT***
+	-example:   "dfdhfh \r\n sdsdfjj  //   /'    "	IS CORRECT
+				"dfdhfh \r\n sdsdfjj  /   '    "	IS NOT CORRECT
+				
+				
+
+					
